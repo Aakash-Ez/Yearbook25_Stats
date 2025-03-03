@@ -32,4 +32,4 @@ This document provides an overview of three Excel files that contain data relate
 ## Notes
 - There are cases where testimonials have been written twice.
 - Duplicate highlights may exist and need to be identified.
-
+- There are cases where the testimonial has been written / rewritten using chatgpt. 
